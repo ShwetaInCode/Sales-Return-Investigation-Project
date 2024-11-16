@@ -5,7 +5,6 @@ This project analyzes sales returns data from a retailer offering various produc
 **Objectives:**  
 - Identify which product categories, sub-categories, specific products, regions, and managers contribute to the sales returns.  
 - Devise strategies to minimize these returns.  
-- Predict the potential financial impact over the next six months if returns decrease by 50%.  
 - Recommend a regional manager for promotion to the position of Head of Sales based on performance data and analysis.
 
 **Tools and Techniques Used:**  
